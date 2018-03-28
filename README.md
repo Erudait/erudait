@@ -1,2 +1,2 @@
 # ɛrʊdʌɪt
-A global communication portal for open data for development.
+A digital strategy platform for thought leadership and open data for development. 
